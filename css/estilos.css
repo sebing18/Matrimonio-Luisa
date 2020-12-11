@@ -10,8 +10,6 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
-
-
 /* ? ----- PORTADA ----- */
 .portada {
 	width: 100%;
@@ -72,6 +70,7 @@ main {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 100px;
+	margin-top: -80px;
 }
 
 .simply-section {
